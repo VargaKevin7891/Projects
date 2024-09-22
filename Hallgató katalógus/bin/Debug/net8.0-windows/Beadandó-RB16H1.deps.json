@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Beadandó-RB16H1/1.0.0": {
+        "runtime": {
+          "Beadandó-RB16H1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Beadandó-RB16H1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

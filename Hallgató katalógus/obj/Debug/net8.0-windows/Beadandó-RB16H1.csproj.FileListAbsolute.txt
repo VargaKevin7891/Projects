@@ -1,0 +1,16 @@
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\bin\Debug\net8.0-windows\Beadandó-RB16H1.exe
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\bin\Debug\net8.0-windows\Beadandó-RB16H1.deps.json
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\bin\Debug\net8.0-windows\Beadandó-RB16H1.runtimeconfig.json
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\bin\Debug\net8.0-windows\Beadandó-RB16H1.dll
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\bin\Debug\net8.0-windows\Beadandó-RB16H1.pdb
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\obj\Debug\net8.0-windows\Beadandó_RB16H1.Form1.resources
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\obj\Debug\net8.0-windows\Beadandó-RB16H1.csproj.GenerateResource.cache
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\obj\Debug\net8.0-windows\Beadandó-RB16H1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\obj\Debug\net8.0-windows\Beadandó-RB16H1.AssemblyInfoInputs.cache
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\obj\Debug\net8.0-windows\Beadandó-RB16H1.AssemblyInfo.cs
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\obj\Debug\net8.0-windows\Beadandó-RB16H1.csproj.CoreCompileInputs.cache
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\obj\Debug\net8.0-windows\Beadandó-RB16H1.dll
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\obj\Debug\net8.0-windows\refint\Beadandó-RB16H1.dll
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\obj\Debug\net8.0-windows\Beadandó-RB16H1.pdb
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\obj\Debug\net8.0-windows\Beadandó-RB16H1.genruntimeconfig.cache
+C:\Users\varga\OneDrive\Dokumentumok\Egyetem\C# alapok\Beadandó-RB16H1\obj\Debug\net8.0-windows\ref\Beadandó-RB16H1.dll
